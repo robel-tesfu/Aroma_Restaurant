@@ -15,7 +15,7 @@ Aroma Restaurant is a modern and responsive restaurant website built with React.
 
 This project was created to practice React development and build a modern restaurant website with an attractive user experience.
 
-# Author
+### Author
 
 **Robel Tesfu**
 
